@@ -41,10 +41,11 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: https://adoring-lewin-f35a3d.netlify.app/
+- URL to live application: 
+  - https://adoring-lewin-f35a3d.netlify.app/
 - How did you deploy it?
-  I deployed the application with Netlify. It is a static site host, which offers free hosting, similar to Render. I decided to use this provider because of it's ease of use, and because I already had an account with them. It is straightforward to link a Github account to Netlify. Then you can just pick a repository to deploy and Netlify handles the rest.
+  - I deployed the application with Netlify. It is a static site host that offers free hosting, similar to Render. I decided to use this provider because of its ease of use, and I already had an account with them. It is straightforward to link a Github account to Netlify. Then, you can just pick a repository to deploy, add any specific build commands (such as yarn build) and Netlify handles the rest. Any time the repo is updated, Netlify will rebuild and deploy.
 - What code editor are you using?
-VS Code
+  - VS Code
 
 That is all!
